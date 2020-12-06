@@ -34,6 +34,7 @@ while 1:
     tk.update()
     time.sleep(0.01)
 
+    #update 1
 
 
 

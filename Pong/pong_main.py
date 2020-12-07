@@ -84,4 +84,4 @@ while 1:
     tk.update()
     time.sleep(0.01)
     
-    # This is the final version. Code will not be changed, unless syntax changes.
+    # This is the final version. Code will not be changed, unless python system syntax changes.

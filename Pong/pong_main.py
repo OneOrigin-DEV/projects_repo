@@ -10,6 +10,11 @@ canvas = Canvas(tk, width=500, height=400, bd=0, highlightthickness=0)
 canvas.pack()
 tk.update()
 
+class Paddle:
+    def__init__(self, canvas, color):
+      # Update during school break at 10:20 AM
+      # Update during school break at 10:20 AM
+    
 class Ball:
     def __init__(self, canvas, color):
         self.canvas = canvas
@@ -35,6 +40,7 @@ class Ball:
             self.x = -3
         
 ball = Ball(canvas, 'red')
+paddle = Paddle(canvas, 'blue')
 
 while 1:
     ball.draw()

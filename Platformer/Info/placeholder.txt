@@ -1,0 +1,5 @@
+# This is a placeholder .txt file. When this project is created, it will be changed to the README file.
+#
+# It will not be edited or deleted in any way until then.
+#
+# -OneOriginDEV
